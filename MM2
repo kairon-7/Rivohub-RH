@@ -6,7 +6,7 @@ local LocalPlayer = Players.LocalPlayer
 local Camera = workspace.CurrentCamera
 
 local VALID_KEY = "kairon-script"
-local DISCORD_URL = "https://discord.gg/wFCk2ZXdr"
+local DISCORD_URL = "https://discord.gg/zbr4VaYrhH"
 local keyVerified = false
 
 local function createKeyUI()
